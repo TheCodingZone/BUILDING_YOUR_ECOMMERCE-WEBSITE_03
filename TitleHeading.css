@@ -1,0 +1,20 @@
+.titleHeading{
+    /* border: 2px solid red; */
+    /* background-color: rgb(161, 155, 155); */
+    
+    margin-top:0;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+}
+.titleHeading h1{
+    color:rgb(250, 251, 252);
+    margin-left: 500px;
+    text-shadow: 1px 1px black;
+    /* color: orangered; */
+    font-style: italic;
+    font-weight: bold;
+   
+}

@@ -1,0 +1,19 @@
+.footer{
+    background-color: rgb(8, 95, 167);
+    color: whitesmoke;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* justify-content: center; */
+    margin-top: 20px;
+    text-shadow: 1px 1px black;
+    justify-content: space-between;
+}
+.footer img{
+    height: 30px;
+    mix-blend-mode: color-burn;
+}
+.footer h6{
+    font-weight: bold;
+}

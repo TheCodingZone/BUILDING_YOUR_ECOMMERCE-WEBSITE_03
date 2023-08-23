@@ -1,0 +1,49 @@
+.itemContainer{
+    display: flex;
+   
+}
+.result{
+    /* border: 2px solid red; */
+    width: 25%;
+    /* display: flex; */
+   
+}
+.price{
+    margin-left: 50px;
+    color: red;
+   
+}
+.result h4{
+    color: rgb(12, 85, 194);
+    font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+    /* text-shadow: 1px 1px black; */
+    margin-left: 10px;
+}
+.button{
+    background-color: rgb(17, 224, 104);
+    margin-top: -33px;
+    margin-left: 210px;
+    color: rgb(24, 23, 23);
+    border: 2px solid rgb(17, 224, 104);
+    /* border-radius: 14px; */
+    box-shadow: grey;
+}
+.button:hover{
+    background-color:rgb(86, 233, 147) ;
+}
+.result img{
+    width:290px;
+    
+    margin-left: 40px;
+    transition: 1s;
+    
+}
+.result img:hover{
+    box-shadow: 0 10px 10px 10px grey;
+    transform: scale(0.9);
+    z-index: 2;
+}
+.title{
+    margin-left: 40px;
+}
